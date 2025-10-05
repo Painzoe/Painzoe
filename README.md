@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 I’m **İrem Parmaksız**
 
-<!--
-**Painzoe/Painzoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 2nd year Computer Engineering student  
+- Interested in Cybersecurity  
+- Learning and building with **C** and **Python**  
+- Exploring Linux and open-source tools  
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Interests
+| Category | Tools / Technologies |
+-----------------------------------------------------------
+| Programming Languages | Python, C |
+| Tools & Technologies | Linux (beginner level), GitHub |
+| Interests | Cybersecurity, Algorithms & Data Structures |
+| Other | File handling, problem-solving projects |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Improve programming and problem-solving skills  
+- Explore cybersecurity fundamentals and CTF challenges  
+- Contribute to open-source projects in the future  
+
+## 💬 Contact
+- LinkedIn: [irem-parmaksiz](https://www.linkedin.com/in/irem-parmaksiz)  
+- GitHub: [Painzoe](https://github.com/Painzoe)  
+
+---
+
+> “Dream big, start small, act now.” 🚀
+
