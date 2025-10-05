@@ -21,7 +21,7 @@
 
 ## 💬 Contact
 - LinkedIn: [irem-parmaksiz](https://www.linkedin.com/in/irem-parmaksiz)  
-- GitHub: [Painzoe](https://github.com/Painzoe)  
+- Mail: painterzombie16@gmail.com  
 
 ---
 
