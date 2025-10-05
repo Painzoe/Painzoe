@@ -9,10 +9,10 @@
 ## 🛠️ Skills & Interests
 | Category | Tools / Technologies |
 -----------------------------------------------------------
-| Programming Languages | Python, C |
-| Tools & Technologies | Linux (beginner level), GitHub |
-| Interests | Cybersecurity, Algorithms & Data Structures |
-| Other | File handling, problem-solving projects |
+ Programming Languages : Python, C |
+ Tools & Technologies : Linux (beginner level), GitHub |
+ Interests : Cybersecurity, Algorithms & Data Structures |
+ Other : File handling, problem-solving projects |
 
 ## 🎯 Goals
 - Improve programming and problem-solving skills  
